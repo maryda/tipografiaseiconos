@@ -1,0 +1,31 @@
+/* Estilo de pagina */
+
+span{
+	font-size: 40px;
+}
+
+div{
+	float: left;
+	text-align: center;
+}
+
+.div1{
+	margin-right: 5px;
+	width: 200px;
+	height: 260px;
+	background-color: #e1eaea;
+}
+
+p{
+	font-family: 'Indie Flower', cursive;
+}
+
+h3{
+	font-family: 'Bree Serif', serif;
+}
+
+ .div1:hover {
+    background-color: #3399ff;
+    width: 230px;
+	height: 280px;
+}
